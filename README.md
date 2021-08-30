@@ -1,4 +1,4 @@
-# flash_chat
+# bmi_appp
 
 A new Flutter project.
 
